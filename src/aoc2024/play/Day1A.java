@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class Day1A {
 
     public static void main(String[] args) {
-        String filePath = "src/aoc2024/input/files/day1a_ip.txt"; // Replace with your file path
+        String filePath = "src/aoc2024/input/files/day1_ip.txt"; // Replace with your file path
         int[] al1 = new int[1000];
         int[] al2 = new int[1000];
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
