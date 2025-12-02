@@ -8,7 +8,7 @@ import aoc2025.play.Day2_Half;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello and welcome! to Advent of Code 2025" );
+        System.out.println(" **** Hello and Welcome!!! **** \n **** Advent of Code 2025! ****" );
         Day1_Half.main(args);
         Day1_Full.main(args);
         Day2_Half.main(args);
