@@ -10,7 +10,9 @@ public class Main {
 //        Day1_Full.main(args);
 //        Day2_Half.main(args);
 //        Day2_Full.main(args);
-        Day3_Half.main(args);
-        Day3_Full.main(args);
+//        Day3_Half.main(args);
+//        Day3_Full.main(args);
+        Day4_Half.main(args);
+        Day4_Full.main(args);
     }
 }
